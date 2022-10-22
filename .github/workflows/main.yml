@@ -1,0 +1,7 @@
+Run npm run test
+
+> temp@1.0.0 test
+> node test.js
+
+The meaning of life is ***
+The secret does match!
